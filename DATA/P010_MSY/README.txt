@@ -1,0 +1,2 @@
+This participants will be excluded. More than 60% (assessed qualitatively per the experimenter Nathalie Meyer during the task) of the answer were wrong. Answer that the environnement were changing almot all the time except for a few trials.
+Therefore the sensitivity to test if the memory is better in synch versus asynch is impossible. 

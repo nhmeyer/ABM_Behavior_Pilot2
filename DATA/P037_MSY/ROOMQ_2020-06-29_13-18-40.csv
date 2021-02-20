@@ -1,0 +1,601 @@
+﻿[Experiment]
+[Routine:Q1] [Condition:default-F6_Env1] [Time(ms):4535281.4875]
+random value 0.7672849
+value 1.000 Time 7 443.236
+[Routine:Q2] [Condition:default-F6_Env1] [Time(ms):4542998.8641]
+random value 5.00706
+value 6.000 Time 5 373.375
+[Routine:Q1] [Condition:default-F7_Env2] [Time(ms):4559012.198]
+random value 0.1260185
+value 1.000 Time 6 378.149
+[Routine:Q2] [Condition:default-F7_Env2] [Time(ms):4565675.6788]
+random value 3.907214
+value 3.957 Time 6 374.016
+[Routine:Q1] [Condition:default-T1_Env1] [Time(ms):4582672.684]
+random value 0.1811004
+value 1.000 Time 4 939.275
+[Routine:Q2] [Condition:default-T1_Env1] [Time(ms):4587886.7718]
+random value 5.574567
+value 6.000 Time 3 882.767
+[Routine:Q1] [Condition:default-Pos1_Env2] [Time(ms):4602393.9254]
+random value 0.7795198
+value 1.000 Time 3 446.003
+[Routine:Q2] [Condition:default-Pos1_Env2] [Time(ms):4606122.7145]
+random value 5.223774
+value 5.224 Time 4 180.916
+[Routine:Q1] [Condition:default-F3_Env1] [Time(ms):4620919.1389]
+random value 0.8093123
+value 1.000 Time 2 967.760
+[Routine:Q2] [Condition:default-F3_Env1] [Time(ms):4624159.0672]
+random value 2.567158
+value 5.567 Time 4 021.146
+[Routine:Q1] [Condition:default-F3_Env2] [Time(ms):4638789.519]
+random value 0.07849503
+value 1.000 Time 5 373.158
+[Routine:Q2] [Condition:default-F3_Env2] [Time(ms):4644434.791]
+random value 2.747213
+value 3.347 Time 3 694.911
+[Routine:Q1] [Condition:default-T1_Env1] [Time(ms):4658744.6868]
+random value 0.609592
+value 1.000 Time 7 560.065
+[Routine:Q2] [Condition:default-T1_Env1] [Time(ms):4666585.4277]
+random value 4.463965
+value 4.464 Time 6 827.688
+[Routine:Q1] [Condition:default-T1_Env2] [Time(ms):4684040.903]
+random value 0.4543279
+value 1.000 Time 5 528.219
+[Routine:Q2] [Condition:default-T1_Env2] [Time(ms):4689845.9365]
+random value 5.115533
+value 3.266 Time 4 062.514
+[Routine:Q1] [Condition:default-F4_Env1] [Time(ms):4704517.03]
+random value 0.03586519
+value 1.000 Time 5 776.684
+[Routine:Q2] [Condition:default-F4_Env1] [Time(ms):4710570.7757]
+random value 5.568937
+value 3.169 Time 5 615.090
+[Routine:Q1] [Condition:default-T1_Env2] [Time(ms):4726809.8965]
+random value 0.1125261
+value 0.000 Time 6 708.059
+[Routine:Q2] [Condition:default-T1_Env2] [Time(ms):4733806.928]
+random value 1.501456
+value 2.701 Time 4 124.389
+[Routine:Q1] [Condition:default-T1_Env1] [Time(ms):4748551.9541]
+random value 0.5105844
+value 1.000 Time 5 372.719
+[Routine:Q2] [Condition:default-T1_Env1] [Time(ms):4754182.0966]
+random value 3.833769
+value 4.434 Time 3 779.212
+[Routine:Q1] [Condition:default-T1_Env2] [Time(ms):4768586.7331]
+random value 0.2077212
+value 0.000 Time 3 232.841
+[Routine:Q2] [Condition:default-T1_Env2] [Time(ms):4772092.0038]
+random value 2.788312
+value 3.388 Time 5 418.111
+[Routine:Q1] [Condition:default-F1_Env1] [Time(ms):4788117.965]
+random value 0.1083435
+value 1.000 Time 6 103.462
+[Routine:Q2] [Condition:default-F1_Env1] [Time(ms):4794518.8262]
+random value 2.934778
+value 4.135 Time 2 583.772
+[Routine:Q1] [Condition:default-F5_Env2] [Time(ms):4807731.5431]
+random value 0.6049286
+value 0.000 Time 5 099.518
+[Routine:Q2] [Condition:default-F5_Env2] [Time(ms):4813104.1504]
+random value 0.3633549
+value 2.813 Time 4 646.739
+[Routine:Q1] [Condition:default-F7_Env1] [Time(ms):4828384.5535]
+random value 0.5652398
+value 0.000 Time 9 612.169
+[Routine:Q2] [Condition:default-F7_Env1] [Time(ms):4838267.1608]
+random value 2.609367
+value 3.209 Time 2 553.538
+[Routine:Q1] [Condition:default-F7_Env2] [Time(ms):4851434.6157]
+random value 0.8703142
+value 1.000 Time 3 904.664
+[Routine:Q2] [Condition:default-F7_Env2] [Time(ms):4855627.066]
+random value 3.751048
+value 4.951 Time 2 966.351
+[Routine:Q1] [Condition:default-Catch_Pos2_Env1] [Time(ms):4869208.7721]
+random value 0.1144762
+value 1.000 Time 2 957.209
+[Routine:Q2] [Condition:default-Catch_Pos2_Env1] [Time(ms):4872439.0456]
+random value 0.7909133
+value 4.391 Time 3 997.027
+[Routine:Q1] [Condition:default-F2_Env2] [Time(ms):4887029.2697]
+random value 0.9018143
+value 0.000 Time 3 249.020
+[Routine:Q2] [Condition:default-F2_Env2] [Time(ms):4890552.6516]
+random value 4.040566
+value 0.991 Time 4 236.786
+[Routine:Q1] [Condition:default-T1_Env1] [Time(ms):4905396.6069]
+random value 0.7270522
+value 0.000 Time 9 675.908
+[Routine:Q2] [Condition:default-T1_Env1] [Time(ms):4915352.2386]
+random value 4.391442
+value 2.441 Time 5 493.084
+[Routine:Q1] [Condition:default-F8_Env2] [Time(ms):4931134.0322]
+random value 0.2657449
+value 0.000 Time 2 353.515
+[Routine:Q2] [Condition:default-F8_Env2] [Time(ms):4933760.9135]
+random value 3.071959
+value 2.472 Time 4 187.442
+[Routine:Q1] [Condition:default-Catch_Pos3_Env1] [Time(ms):4948557.1307]
+random value 0.01986468
+value 0.000 Time 4 043.762
+[Routine:Q2] [Condition:default-Catch_Pos3_Env1] [Time(ms):4952874.3048]
+random value 0.01205063
+value 4.262 Time 6 623.215
+[Routine:Q1] [Condition:default-F5_Env2] [Time(ms):4970132.4397]
+random value 0.1989012
+value 1.000 Time 5 622.546
+[Routine:Q2] [Condition:default-F5_Env2] [Time(ms):4976039.5039]
+random value 2.426138
+value 3.026 Time 3 248.586
+[Routine:Q1] [Condition:default-T1_Env1] [Time(ms):4989910.686]
+random value 0.5513443
+value 0.000 Time 3 723.466
+[Routine:Q2] [Condition:default-T1_Env1] [Time(ms):4993911.7981]
+random value 5.863305
+value 4.063 Time 3 320.862
+[Routine:Q1] [Condition:default-T1_Env2] [Time(ms):5007833.117]
+random value 0.7417878
+value 0.000 Time 4 570.474
+[Routine:Q2] [Condition:default-T1_Env2] [Time(ms):5012673.4769]
+random value 4.511687
+value 3.362 Time 2 656.947
+[Routine:Q1] [Condition:default-Catch_Pos3_Env1] [Time(ms):5025933.4711]
+random value 0.3030739
+value 1.000 Time 4 062.145
+[Routine:Q2] [Condition:default-Catch_Pos3_Env1] [Time(ms):5030260.9179]
+random value 3.19011
+value 4.990 Time 2 471.472
+[Routine:Q1] [Condition:default-Catch3_Env2] [Time(ms):5043354.4081]
+random value 0.1145244
+value 1.000 Time 2 776.982
+[Routine:Q2] [Condition:default-Catch3_Env2] [Time(ms):5046408.2461]
+random value 5.184049
+value 4.584 Time 1 961.918
+[Routine:Q1] [Condition:default-T1_Env1] [Time(ms):5059004.2787]
+random value 0.9506813
+value 1.000 Time 2 732.566
+[Routine:Q2] [Condition:default-T1_Env1] [Time(ms):5062008.7515]
+random value 4.46131
+value 5.061 Time 3 164.111
+[Routine:Q1] [Condition:default-T1_Env2] [Time(ms):5075780.7841]
+random value 0.7069623
+value 1.000 Time 2 130.569
+[Routine:Q2] [Condition:default-T1_Env2] [Time(ms):5078193.4369]
+random value 2.39786
+value 4.198 Time 4 548.499
+[Routine:Q1] [Condition:default-F6_Env1] [Time(ms):5093363.5445]
+random value 0.4235654
+value 1.000 Time 1 912.590
+[Routine:Q2] [Condition:default-F6_Env1] [Time(ms):5095568.4455]
+random value 5.313007
+value 4.113 Time 3 785.246
+[Routine:Q1] [Condition:default-F8_Env2] [Time(ms):5109650.2716]
+random value 0.8502183
+value 1.000 Time 5 977.920
+[Routine:Q2] [Condition:default-F8_Env2] [Time(ms):5115895.4775]
+random value 4.139095
+value 3.589 Time 6 340.656
+[Routine:Q1] [Condition:default-T1_Env1] [Time(ms):5132846.1039]
+random value 0.3588638
+value 1.000 Time 4 350.674
+[Routine:Q2] [Condition:default-T1_Env1] [Time(ms):5137470.1946]
+random value 1.021853
+value 3.522 Time 3 079.896
+[Routine:Q1] [Condition:default-T1_Env2] [Time(ms):5151146.8333]
+random value 0.533411
+value 0.000 Time 5 831.439
+[Routine:Q2] [Condition:default-T1_Env2] [Time(ms):5157257.17]
+random value 4.926597
+value 3.777 Time 3 636.262
+[Routine:Q1] [Condition:default-F5_Env1] [Time(ms):5171473.0237]
+random value 0.0885849
+value 1.000 Time 2 112.637
+[Routine:Q2] [Condition:default-F5_Env1] [Time(ms):5173853.348]
+random value 3.844465
+value 5.644 Time 2 875.894
+[Routine:Q1] [Condition:default-F4_Env2] [Time(ms):5187324.3065]
+random value 0.157773
+value 1.000 Time 1 997.070
+[Routine:Q2] [Condition:default-F4_Env2] [Time(ms):5189601.9389]
+random value 2.707875
+value 5.708 Time 3 488.942
+[Routine:Q1] [Condition:default-T1_Env1] [Time(ms):5203709.9385]
+random value 0.5016688
+value 0.000 Time 2 724.869
+[Routine:Q2] [Condition:default-T1_Env1] [Time(ms):5206703.2346]
+random value 3.120169
+value 2.520 Time 2 967.768
+[Routine:Q1] [Condition:default-T1_Env2] [Time(ms):5220274.1496]
+random value 0.4641599
+value 0.000 Time 2 806.686
+[Routine:Q2] [Condition:default-T1_Env2] [Time(ms):5223353.1605]
+random value 4.328671
+value 3.129 Time 4 136.303
+[Routine:Q1] [Condition:default-F3_Env1] [Time(ms):5238097.8903]
+random value 0.3034891
+value 0.000 Time 2 166.061
+[Routine:Q2] [Condition:default-F3_Env1] [Time(ms):5240551.4903]
+random value 0.8524482
+value 2.652 Time 4 601.283
+[Routine:Q1] [Condition:default-T1_Env2] [Time(ms):5255747.1749]
+random value 0.6305838
+value 0.000 Time 3 058.771
+[Routine:Q2] [Condition:default-T1_Env2] [Time(ms):5259089.4189]
+random value 5.827047
+value 3.427 Time 2 690.094
+[Routine:Q1] [Condition:default-F6_Env1] [Time(ms):5272368.3664]
+random value 0.4459571
+value 1.000 Time 2 385.736
+[Routine:Q2] [Condition:default-F6_Env1] [Time(ms):5275025.3956]
+random value 2.006501
+value 4.407 Time 2 609.288
+[Routine:Q1] [Condition:default-F6_Env2] [Time(ms):5288242.8639]
+random value 0.7692255
+value 0.000 Time 1 567.384
+[Routine:Q2] [Condition:default-F6_Env2] [Time(ms):5290098.293]
+random value 3.656916
+value 4.257 Time 4 364.650
+[Routine:Q1] [Condition:default-F8_Env1] [Time(ms):5305076.3836]
+random value 0.9908162
+value 1.000 Time 2 936.280
+[Routine:Q2] [Condition:default-F8_Env1] [Time(ms):5308300.4778]
+random value 0.01779556
+value 6.000 Time 2 640.394
+[Routine:Q1] [Condition:default-F5_Env2] [Time(ms):5321544.8695]
+random value 0.5024756
+value 1.000 Time 2 657.937
+[Routine:Q2] [Condition:default-F5_Env2] [Time(ms):5324486.5641]
+random value 0.9088225
+value 5.109 Time 2 712.450
+[Routine:Q1] [Condition:default-F7_Env1] [Time(ms):5337794.856]
+random value 0.4846848
+value 1.000 Time 3 145.144
+[Routine:Q2] [Condition:default-F7_Env1] [Time(ms):5341224.8271]
+random value 1.534684
+value 4.585 Time 4 795.266
+[Routine:Q1] [Condition:default-F3_Env2] [Time(ms):5356640.2948]
+random value 0.5991425
+value 1.000 Time 1 536.766
+[Routine:Q2] [Condition:default-F3_Env2] [Time(ms):5358445.9357]
+random value 2.808484
+value 5.208 Time 2 413.923
+[Routine:Q1] [Condition:default-Catch2_Env1] [Time(ms):5371443.4869]
+random value 0.783453
+value 1.000 Time 1 597.960
+[Routine:Q2] [Condition:default-Catch2_Env1] [Time(ms):5373309.753]
+random value 5.265477
+value 4.665 Time 4 466.739
+[Routine:Q1] [Condition:default-Catch2_Env2] [Time(ms):5388371.1132]
+random value 0.8801117
+value 1.000 Time 2 672.614
+[Routine:Q2] [Condition:default-Catch2_Env2] [Time(ms):5391335.5445]
+random value 3.288226
+value 4.488 Time 5 204.261
+[Routine:Q1] [Condition:default-Catch3_Env1] [Time(ms):5407173.9825]
+random value 0.6330872
+value 0.000 Time 2 118.981
+[Routine:Q2] [Condition:default-Catch3_Env1] [Time(ms):5409558.564]
+random value 0.4577007
+value 2.858 Time 2 429.783
+[Routine:Q1] [Condition:default-T1_Env2] [Time(ms):5422588.3901]
+random value 0.1509926
+value 0.000 Time 1 862.003
+[Routine:Q2] [Condition:default-T1_Env2] [Time(ms):5424731.629]
+random value 2.917454
+value 2.317 Time 3 479.625
+[Routine:Q1] [Condition:default-T1_Env1] [Time(ms):5438796.462]
+random value 0.559751
+value 0.000 Time 1 886.678
+[Routine:Q2] [Condition:default-T1_Env1] [Time(ms):5440957.478]
+random value 4.284555
+value 3.035 Time 3 536.133
+[Routine:Q1] [Condition:default-T1_Env2] [Time(ms):5455089.7379]
+random value 0.6446238
+value 0.000 Time 2 145.112
+[Routine:Q2] [Condition:default-T1_Env2] [Time(ms):5457506.4875]
+random value 3.984876
+value 2.785 Time 3 794.812
+[Routine:Q1] [Condition:default-T1_Env1] [Time(ms):5471911.7725]
+random value 0.7154846
+value 0.000 Time 2 239.578
+[Routine:Q2] [Condition:default-T1_Env1] [Time(ms):5474444.277]
+random value 3.335589
+value 2.686 Time 1 781.131
+[Routine:Q1] [Condition:default-T1_Env2] [Time(ms):5486838.5215]
+random value 0.2374599
+value 0.000 Time 3 124.713
+[Routine:Q2] [Condition:default-T1_Env2] [Time(ms):5490243.5445]
+random value 4.263692
+value 3.664 Time 1 632.625
+[Routine:Q1] [Condition:default-Catch_Pos1_Env1] [Time(ms):5502485.538]
+random value 0.9239329
+value 1.000 Time 2 265.062
+[Routine:Q2] [Condition:default-Catch_Pos1_Env1] [Time(ms):5505018.6257]
+random value 1.049026
+value 6.000 Time 3 776.840
+[Routine:Q1] [Condition:default-T1_Env2] [Time(ms):5519400.3013]
+random value 0.6057219
+value 0.000 Time 3 572.946
+[Routine:Q2] [Condition:default-T1_Env2] [Time(ms):5523244.8921]
+random value 3.0395
+value 4.290 Time 3 745.197
+[Routine:Q1] [Condition:default-T1_Env1] [Time(ms):5537595.0453]
+random value 0.469416
+value 0.000 Time 2 273.484
+[Routine:Q2] [Condition:default-T1_Env1] [Time(ms):5540142.2671]
+random value 4.970078
+value 2.570 Time 2 775.938
+[Routine:Q1] [Condition:default-T1_Env2] [Time(ms):5553538.6787]
+random value 0.1456987
+value 0.000 Time 2 294.763
+[Routine:Q2] [Condition:default-T1_Env2] [Time(ms):5556103.8306]
+random value 2.213564
+value 1.614 Time 2 704.039
+[Routine:Q1] [Condition:default-T1_Env1] [Time(ms):5569411.3522]
+random value 0.2925919
+value 0.000 Time 2 656.394
+[Routine:Q2] [Condition:default-T1_Env1] [Time(ms):5572354.3021]
+random value 4.541907
+value 3.342 Time 5 254.190
+[Routine:Q1] [Condition:default-Pos2_Env2] [Time(ms):5588211.0588]
+random value 0.7826737
+value 0.000 Time 3 069.176
+[Routine:Q2] [Condition:default-Pos2_Env2] [Time(ms):5591553.7583]
+random value 0.1336956
+value 3.184 Time 3 295.924
+[Routine:Q1] [Condition:default-F2_Env1] [Time(ms):5605430.4136]
+random value 0.4654635
+value 1.000 Time 1 922.482
+[Routine:Q2] [Condition:default-F2_Env1] [Time(ms):5607639.0397]
+random value 3.238417
+value 5.638 Time 3 507.781
+[Routine:Q1] [Condition:default-F6_Env2] [Time(ms):5621758.4877]
+random value 0.8653347
+value 0.000 Time 3 123.200
+[Routine:Q2] [Condition:default-F6_Env2] [Time(ms):5625164.6975]
+random value 2.326327
+value 3.526 Time 3 350.941
+[Routine:Q1] [Condition:default-T1_Env1] [Time(ms):5639134.0651]
+random value 0.4088665
+value 0.000 Time 2 064.803
+[Routine:Q2] [Condition:default-T1_Env1] [Time(ms):5641469.8851]
+random value 1.401187
+value 2.601 Time 2 476.501
+[Routine:Q1] [Condition:default-F1_Env2] [Time(ms):5654533.954]
+random value 0.7757835
+value 0.000 Time 5 238.776
+[Routine:Q2] [Condition:default-F1_Env2] [Time(ms):5660053.3503]
+random value 4.498877
+value 3.849 Time 5 172.108
+[Routine:Q1] [Condition:default-T1_Env1] [Time(ms):5675833.7588]
+random value 0.4604225
+value 0.000 Time 2 131.887
+[Routine:Q2] [Condition:default-T1_Env1] [Time(ms):5678225.3009]
+random value 2.76777
+value 3.968 Time 2 587.307
+[Routine:Q1] [Condition:default-F3_Env2] [Time(ms):5691408.2813]
+random value 0.8689065
+value 1.000 Time 1 216.780
+[Routine:Q2] [Condition:default-F3_Env2] [Time(ms):5692922.5691]
+random value 0.6539505
+value 6.000 Time 2 389.611
+[Routine:Q1] [Condition:default-Catch2_Env1] [Time(ms):5705957.4027]
+random value 0.5172208
+value 0.000 Time 1 968.865
+[Routine:Q2] [Condition:default-Catch2_Env1] [Time(ms):5708198.6197]
+random value 0.7362642
+value 1.336 Time 3 352.668
+[Routine:Q1] [Condition:default-F4_Env2] [Time(ms):5722158.0823]
+random value 0.02237236
+value 0.000 Time 1 976.672
+[Routine:Q2] [Condition:default-F4_Env2] [Time(ms):5724410.2976]
+random value 3.553746
+value 3.554 Time 2 371.854
+[Routine:Q1] [Condition:default-F1_Env1] [Time(ms):5737385.7468]
+random value 0.2549046
+value 0.000 Time 3 318.816
+[Routine:Q2] [Condition:default-F1_Env1] [Time(ms):5740986.9187]
+random value 4.457201
+value 5.057 Time 3 694.634
+[Routine:Q1] [Condition:default-F1_Env2] [Time(ms):5755282.12]
+random value 0.2373314
+value 0.000 Time 5 583.402
+[Routine:Q2] [Condition:default-F1_Env2] [Time(ms):5761149.3477]
+random value 4.352293
+value 3.752 Time 3 033.921
+[Routine:Q1] [Condition:default-F7_Env1] [Time(ms):5774793.3133]
+random value 0.06796193
+value 1.000 Time 3 365.369
+[Routine:Q2] [Condition:default-F7_Env1] [Time(ms):5778435.9135]
+random value 4.883097
+value 4.883 Time 1 640.213
+[Routine:Q1] [Condition:default-Pos3_Env2] [Time(ms):5790694.6282]
+random value 0.1640879
+value 1.000 Time 2 179.514
+[Routine:Q2] [Condition:default-Pos3_Env2] [Time(ms):5793145.3189]
+random value 2.341708
+value 6.000 Time 2 938.470
+[Routine:Q1] [Condition:default-T1_Env1] [Time(ms):5806676.8896]
+random value 0.06224179
+value 1.000 Time 2 893.800
+[Routine:Q2] [Condition:default-T1_Env1] [Time(ms):5809847.2685]
+random value 0.6542888
+value 1.854 Time 5 343.816
+[Routine:Q1] [Condition:default-T1_Env2] [Time(ms):5825803.4741]
+random value 0.1711823
+value 0.000 Time 2 908.804
+[Routine:Q2] [Condition:default-T1_Env2] [Time(ms):5828982.4197]
+random value 1.193954
+value 2.394 Time 2 421.480
+[Routine:Q1] [Condition:default-F1_Env1] [Time(ms):5842008.6795]
+random value 0.7725066
+value 1.000 Time 1 806.390
+[Routine:Q2] [Condition:default-F1_Env1] [Time(ms):5844094.9256]
+random value 1.292253
+value 2.492 Time 2 170.829
+[Routine:Q1] [Condition:default-T1_Env2] [Time(ms):5856882.1895]
+random value 0.5840757
+value 0.000 Time 2 866.657
+[Routine:Q2] [Condition:default-T1_Env2] [Time(ms):5860019.7181]
+random value 5.280819
+value 1.681 Time 3 851.244
+[Routine:Q1] [Condition:default-F4_Env1] [Time(ms):5874461.6858]
+random value 0.4517035
+value 1.000 Time 2 127.202
+[Routine:Q2] [Condition:default-F4_Env1] [Time(ms):5876856.0641]
+random value 4.820991
+value 3.621 Time 2 751.441
+[Routine:Q1] [Condition:default-Pos2_Env2] [Time(ms):5890230.1792]
+random value 0.07288361
+value 0.000 Time 1 403.179
+[Routine:Q2] [Condition:default-Pos2_Env2] [Time(ms):5891905.0909]
+random value 1.943908
+value 2.544 Time 2 565.360
+[Routine:Q1] [Condition:default-F4_Env1] [Time(ms):5905070.2995]
+random value 0.6116475
+value 0.000 Time 1 959.186
+[Routine:Q2] [Condition:default-F4_Env1] [Time(ms):5907305.6129]
+random value 4.227093
+value 3.027 Time 3 510.964
+[Routine:Q1] [Condition:default-T1_Env2] [Time(ms):5921429.0136]
+random value 0.07738352
+value 0.000 Time 1 694.498
+[Routine:Q2] [Condition:default-T1_Env2] [Time(ms):5923404.1203]
+random value 3.11757
+value 3.118 Time 3 891.955
+[Routine:Q1] [Condition:default-T1_Env1] [Time(ms):5937875.2493]
+random value 0.3076537
+value 0.000 Time 2 859.549
+[Routine:Q2] [Condition:default-T1_Env1] [Time(ms):5941017.4157]
+random value 1.528396
+value 1.528 Time 1 880.506
+[Routine:Q1] [Condition:default-T1_Env2] [Time(ms):5953481.6477]
+random value 0.5867643
+value 0.000 Time 1 741.688
+[Routine:Q2] [Condition:default-T1_Env2] [Time(ms):5955491.0705]
+random value 3.485832
+value 2.286 Time 1 470.284
+[Routine:Q1] [Condition:default-T1_Env1] [Time(ms):5967563.5069]
+random value 0.4336562
+value 0.000 Time 2 681.523
+[Routine:Q2] [Condition:default-T1_Env1] [Time(ms):5970528.9409]
+random value 5.391139
+value 4.191 Time 3 718.032
+[Routine:Q1] [Condition:default-Catch3_Env2] [Time(ms):5984848.5581]
+random value 0.7897251
+value 1.000 Time 2 326.078
+[Routine:Q2] [Condition:default-Catch3_Env2] [Time(ms):5987452.8957]
+random value 4.142784
+value 4.143 Time 2 677.319
+[Routine:Q1] [Condition:default-F8_Env1] [Time(ms):6000773.2981]
+random value 0.08925235
+value 1.000 Time 2 817.781
+[Routine:Q2] [Condition:default-F8_Env1] [Time(ms):6003865.5386]
+random value 1.388487
+value 6.000 Time 3 536.177
+[Routine:Q1] [Condition:default-T1_Env2] [Time(ms):6017995.8834]
+random value 0.9078997
+value 0.000 Time 3 261.474
+[Routine:Q2] [Condition:default-T1_Env2] [Time(ms):6021539.2496]
+random value 4.84355
+value 3.644 Time 3 195.185
+[Routine:Q1] [Condition:default-T1_Env1] [Time(ms):6035350.6333]
+random value 0.2020907
+value 0.000 Time 2 356.849
+[Routine:Q2] [Condition:default-T1_Env1] [Time(ms):6037976.4163]
+random value 4.51158
+value 3.962 Time 1 674.854
+[Routine:Q1] [Condition:default-T1_Env2] [Time(ms):6050246.0204]
+random value 0.04183578
+value 0.000 Time 5 849.550
+[Routine:Q2] [Condition:default-T1_Env2] [Time(ms):6056365.7301]
+random value 3.168461
+value 3.768 Time 2 247.449
+[Routine:Q1] [Condition:default-Catch3_Env1] [Time(ms):6069196.3056]
+random value 0.6466924
+value 1.000 Time 2 279.823
+[Routine:Q2] [Condition:default-Catch3_Env1] [Time(ms):6071750.573]
+random value 2.820825
+value 3.421 Time 1 749.813
+[Routine:Q1] [Condition:default-F2_Env2] [Time(ms):6084114.4871]
+random value 0.9071935
+value 0.000 Time 2 601.555
+[Routine:Q2] [Condition:default-F2_Env2] [Time(ms):6086986.7313]
+random value 3.736534
+value 3.187 Time 3 105.523
+[Routine:Q1] [Condition:default-Catch1_Env1] [Time(ms):6100697.4555]
+random value 0.8824894
+value 1.000 Time 1 366.477
+[Routine:Q2] [Condition:default-Catch1_Env1] [Time(ms):6102348.2413]
+random value 1.778361
+value 3.578 Time 1 793.248
+[Routine:Q1] [Condition:default-T1_Env2] [Time(ms):6114742.7855]
+random value 0.6902429
+value 0.000 Time 1 091.544
+[Routine:Q2] [Condition:default-T1_Env2] [Time(ms):6116108.9459]
+random value 1.649512
+value 3.450 Time 2 000.245
+[Routine:Q1] [Condition:default-F2_Env1] [Time(ms):6128715.3741]
+random value 0.1808827
+value 0.000 Time 4 535.557
+[Routine:Q2] [Condition:default-F2_Env1] [Time(ms):6133525.0499]
+random value 2.084784
+value 3.285 Time 4 778.837
+[Routine:Q1] [Condition:default-Pos3_Env2] [Time(ms):6148892.3235]
+random value 0.811985
+value 1.000 Time 2 263.137
+[Routine:Q2] [Condition:default-Pos3_Env2] [Time(ms):6151421.9296]
+random value 5.892948
+value 6.000 Time 962.932
+[Routine:Q1] [Condition:default-F5_Env1] [Time(ms):6162974.3463]
+random value 0.5952324
+value 0.000 Time 1 633.146
+[Routine:Q2] [Condition:default-F5_Env1] [Time(ms):6164883.8261]
+random value 2.173025
+value 2.173 Time 2 341.514
+[Routine:Q1] [Condition:default-Catch2_Env2] [Time(ms):6177816.0053]
+random value 0.1324881
+value 1.000 Time 1 216.609
+[Routine:Q2] [Condition:default-Catch2_Env2] [Time(ms):6179306.6743]
+random value 0.9861152
+value 5.286 Time 2 990.505
+[Routine:Q1] [Condition:default-T1_Env1] [Time(ms):6192910.0823]
+random value 0.6583848
+value 0.000 Time 5 303.506
+[Routine:Q2] [Condition:default-T1_Env1] [Time(ms):6198485.6867]
+random value 0.7467234
+value 2.497 Time 4 702.850
+[Routine:Q1] [Condition:default-F4_Env2] [Time(ms):6213765.4805]
+random value 0.1139462
+value 0.000 Time 3 114.682
+[Routine:Q2] [Condition:default-F4_Env2] [Time(ms):6217145.125]
+random value 0.6907783
+value 3.091 Time 2 800.122
+[Routine:Q1] [Condition:default-T1_Env1] [Time(ms):6230542.4911]
+random value 0.6866963
+value 0.000 Time 2 071.844
+[Routine:Q2] [Condition:default-T1_Env1] [Time(ms):6232882.0956]
+random value 3.118133
+value 4.318 Time 3 638.748
+[Routine:Q1] [Condition:default-F8_Env2] [Time(ms):6246788.5405]
+random value 0.8925598
+value 0.000 Time 6 850.158
+[Routine:Q2] [Condition:default-F8_Env2] [Time(ms):6253908.8482]
+random value 3.816199
+value 2.616 Time 2 675.457
+[Routine:Q1] [Condition:default-Catch_Pos2_Env1] [Time(ms):6267192.3109]
+random value 0.2135507
+value 0.000 Time 2 678.996
+[Routine:Q2] [Condition:default-Catch_Pos2_Env1] [Time(ms):6270146.0801]
+random value 3.897305
+value 3.297 Time 1 771.175
+[Routine:Q1] [Condition:default-Catch1_Env2] [Time(ms):6282512.8241]
+random value 0.03532255
+value 1.000 Time 3 305.603
+[Routine:Q2] [Condition:default-Catch1_Env2] [Time(ms):6286093.9163]
+random value 4.498942
+value 5.099 Time 2 832.698
