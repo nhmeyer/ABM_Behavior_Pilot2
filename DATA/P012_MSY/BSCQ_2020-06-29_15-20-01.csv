@@ -1,0 +1,61 @@
+﻿[Experiment]
+[Routine:BSC] [Condition:ENV2-OWNERSHIP] [Time(ms):684333.7066]
+random value 2.973127
+value 3.673 Time 18 482.452
+[Routine:BSC] [Condition:ENV2-AGENCY] [Time(ms):703163.774]
+random value 2.627148
+value 1.427 Time 10 060.874
+[Routine:BSC] [Condition:ENV2-CONTROL2] [Time(ms):713563.0346]
+random value 3.835286
+value 0.000 Time 7 685.524
+[Routine:BSC] [Condition:ENV2-THREAT] [Time(ms):721576.624]
+random value 2.499282
+value 3.149 Time 7 388.287
+[Routine:BSC] [Condition:ENV2-CONTROL] [Time(ms):729275.0008]
+random value 3.167119
+value 0.000 Time 8 103.892
+[Routine:BSC] [Condition:ENV1-THREAT] [Time(ms):783317.4756]
+random value 0.4560657
+value 2.856 Time 9 379.465
+[Routine:BSC] [Condition:ENV1-OWNERSHIP] [Time(ms):793048.218]
+random value 1.521192
+value 4.571 Time 9 164.327
+[Routine:BSC] [Condition:ENV1-CONTROL2] [Time(ms):802523.2133]
+random value 5.151691
+value 0.000 Time 7 069.056
+[Routine:BSC] [Condition:ENV1-CONTROL] [Time(ms):809897.6576]
+random value 5.882145
+value 0.000 Time 7 693.981
+[Routine:BSC] [Condition:ENV1-AGENCY] [Time(ms):817924.2989]
+random value 3.837561
+value 2.638 Time 10 615.340
+[Routine:BSC] [Condition:ENV2-CONTROL2] [Time(ms):874477.8605]
+random value 2.878911
+value 0.000 Time 8 432.965
+[Routine:BSC] [Condition:ENV2-AGENCY] [Time(ms):883257.8976]
+random value 4.054692
+value 4.055 Time 6 799.695
+[Routine:BSC] [Condition:ENV2-CONTROL] [Time(ms):890358.5168]
+random value 3.337782
+value 0.000 Time 6 787.547
+[Routine:BSC] [Condition:ENV2-OWNERSHIP] [Time(ms):897456.605]
+random value 5.849921
+value 5.250 Time 8 149.625
+[Routine:BSC] [Condition:ENV2-THREAT] [Time(ms):905919.2072]
+random value 2.779539
+value 3.380 Time 8 916.046
+[Routine:BSC] [Condition:ENV1-OWNERSHIP] [Time(ms):960787.1457]
+random value 1.296556
+value 0.000 Time 8 620.171
+[Routine:BSC] [Condition:ENV1-THREAT] [Time(ms):969742.1205]
+random value 4.756153
+value 2.906 Time 8 492.820
+[Routine:BSC] [Condition:ENV1-CONTROL] [Time(ms):978567.2471]
+random value 2.967822
+value 0.000 Time 6 783.394
+[Routine:BSC] [Condition:ENV1-AGENCY] [Time(ms):985666.8797]
+random value 3.366487
+value 0.366 Time 10 105.386
+[Routine:BSC] [Condition:ENV1-CONTROL2] [Time(ms):996078.3418]
+random value 0.5979609
+value 0.000 Time 6 075.578

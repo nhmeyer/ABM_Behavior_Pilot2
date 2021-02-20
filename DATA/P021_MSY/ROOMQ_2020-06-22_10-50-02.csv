@@ -1,0 +1,108 @@
+﻿[Experiment]
+random value 4.848576
+random value 4.60454
+random value 5.968156
+[Routine:Q1] [Condition:default-F7_Env1] [Time(ms):3933041.0015]
+random value 0.8519622
+value 1.000 Time 9 523.300
+[Routine:Q2] [Condition:default-F7_Env1] [Time(ms):3942825.4299]
+random value 2.561939
+value 4.962 Time 4 885.833
+[Routine:Q1] [Condition:default-T1_Env2] [Time(ms):3958243.0942]
+random value 0.7747314
+value 1.000 Time 7 331.890
+[Routine:Q2] [Condition:default-T1_Env2] [Time(ms):3965835.1936]
+random value 0.9342349
+value 2.734 Time 4 613.851
+[Routine:Q1] [Condition:default-T1_Env1] [Time(ms):3980985.866]
+random value 0.9258389
+value 1.000 Time 7 210.334
+[Routine:Q2] [Condition:default-T1_Env1] [Time(ms):3988459.8884]
+random value 5.122968
+value 2.723 Time 3 984.730
+[Routine:Q1] [Condition:default-T1_Env2] [Time(ms):4002967.8486]
+random value 0.595562
+value 1.000 Time 5 959.389
+[Routine:Q2] [Condition:default-T1_Env2] [Time(ms):4009182.6412]
+random value 2.96812
+value 5.968 Time 3 330.636
+[Routine:Q1] [Condition:default-F4_Env1] [Time(ms):4023040.5728]
+random value 0.109037
+value 0.000 Time 5 019.576
+[Routine:Q2] [Condition:default-F4_Env1] [Time(ms):4028319.5524]
+random value 3.990968
+value 4.041 Time 4 090.038
+[Routine:Q1] [Condition:default-T1_Env2] [Time(ms):4042936.139]
+random value 0.7800012
+value 1.000 Time 7 775.835
+[Routine:Q2] [Condition:default-T1_Env2] [Time(ms):4050981.7199]
+random value 2.502486
+value 2.502 Time 2 128.213
+[Routine:Q1] [Condition:default-F4_Env2] [Time(ms):4086186.9455]
+random value 0.538971
+value 0.000 Time 9 831.732
+[Routine:Q2] [Condition:default-F4_Env2] [Time(ms):4096269.3549]
+random value 4.381831
+value 0.782 Time 3 757.843
+[Routine:Q1] [Condition:default-T1_Env1] [Time(ms):4110584.8612]
+random value 0.909969
+value 1.000 Time 3 500.200
+[Routine:Q2] [Condition:default-T1_Env1] [Time(ms):4114342.5437]
+random value 0.5373909
+value 5.987 Time 3 295.379
+[Routine:Q1] [Condition:default-T1_Env2] [Time(ms):4128166.1041]
+random value 0.2637607
+value 0.000 Time 4 268.474
+[Routine:Q2] [Condition:default-T1_Env2] [Time(ms):4132691.0983]
+random value 2.174949
+value 0.975 Time 1 634.313
+[Routine:Q1] [Condition:default-T1_Env2] [Time(ms):4161308.7581]
+random value 0.1881114
+value 0.000 Time 6 158.463
+[Routine:Q2] [Condition:default-T1_Env2] [Time(ms):4167729.1826]
+random value 4.368667
+value 0.769 Time 5 094.758
+[Routine:Q1] [Condition:default-F4_Env1] [Time(ms):4183349.1917]
+random value 0.9391637
+value 1.000 Time 8 826.762
+[Routine:Q2] [Condition:default-F4_Env1] [Time(ms):4192441.6578]
+random value 4.478065
+value 2.628 Time 7 493.460
+[Routine:Q1] [Condition:default-F6_Env2] [Time(ms):4210472.4007]
+random value 0.9178705
+value 0.000 Time 5 133.567
+[Routine:Q2] [Condition:default-F6_Env2] [Time(ms):4215865.131]
+random value 1.781458
+value 0.000 Time 5 084.411
+[Routine:Q1] [Condition:default-F8_Env1] [Time(ms):4231486.5316]
+random value 0.2852692
+value 1.000 Time 10 010.356
+[Routine:Q2] [Condition:default-F8_Env1] [Time(ms):4241765.0905]
+random value 5.239531
+value 0.940 Time 5 006.543
+[Routine:Q1] [Condition:default-F7_Env2] [Time(ms):4257293.3017]
+random value 0.6852202
+value 1.000 Time 3 010.748
+[Routine:Q2] [Condition:default-F7_Env2] [Time(ms):4260563.7053]
+random value 5.4169
+value 3.017 Time 8 698.872
+[Routine:Q1] [Condition:default-T1_Env1] [Time(ms):4279798.992]
+random value 0.656611
+value 1.000 Time 8 587.655
+[Routine:Q2] [Condition:default-T1_Env1] [Time(ms):4288651.1601]
+random value 0.5143805
+value 2.314 Time 7 981.463
+[Routine:Q1] [Condition:default-F3_Env2] [Time(ms):4307169.8355]
+random value 0.5237326
+value 1.000 Time 5 062.388
+[Routine:Q2] [Condition:default-F3_Env2] [Time(ms):4312500.2039]
+random value 0.6614943
+value 6.000 Time 2 065.665
+[Routine:Q1] [Condition:default-F6_Env1] [Time(ms):4325098.6089]
+random value 0.03132617
+value 1.000 Time 2 538.448
+[Routine:Q2] [Condition:default-F6_Env1] [Time(ms):4327912.0539]
+random value 0.5863023
+value 6.000 Time 2 799.839
+[Routine:Q1] [Condition:default-T1_Env1] [Time(ms):4353142.4205]
+random value 0.5517209

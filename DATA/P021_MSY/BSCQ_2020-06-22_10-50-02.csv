@@ -1,0 +1,61 @@
+﻿[Experiment]
+[Routine:BSC] [Condition:ENV1-CONTROL] [Time(ms):675328.0327]
+random value 2.333066
+value 0.000 Time 12 036.295
+[Routine:BSC] [Condition:ENV1-OWNERSHIP] [Time(ms):687619.6178]
+random value 2.433964
+value 1.234 Time 8 436.627
+[Routine:BSC] [Condition:ENV1-AGENCY] [Time(ms):696331.5605]
+random value 5.619825
+value 5.620 Time 6 208.972
+[Routine:BSC] [Condition:ENV1-CONTROL2] [Time(ms):702805.6099]
+random value 4.103057
+value 0.000 Time 7 068.949
+[Routine:BSC] [Condition:ENV1-THREAT] [Time(ms):710141.9777]
+random value 3.745513
+value 5.546 Time 6 711.505
+[Routine:BSC] [Condition:ENV2-CONTROL] [Time(ms):762680.8419]
+random value 5.200318
+value 1.000 Time 9 271.721
+[Routine:BSC] [Condition:ENV2-THREAT] [Time(ms):772216.0143]
+random value 3.797643
+value 4.998 Time 7 312.036
+[Routine:BSC] [Condition:ENV2-AGENCY] [Time(ms):779790.7896]
+random value 1.645141
+value 4.045 Time 10 143.915
+[Routine:BSC] [Condition:ENV2-OWNERSHIP] [Time(ms):790216.6648]
+random value 3.222985
+value 4.423 Time 9 453.013
+[Routine:BSC] [Condition:ENV2-CONTROL2] [Time(ms):799927.5856]
+random value 4.833326
+value 1.783 Time 9 434.134
+[Routine:BSC] [Condition:ENV1-CONTROL2] [Time(ms):855201.6807]
+random value 2.355773
+value 0.556 Time 7 232.743
+[Routine:BSC] [Condition:ENV1-THREAT] [Time(ms):862688.3095]
+random value 5.044415
+value 2.644 Time 5 709.298
+[Routine:BSC] [Condition:ENV1-CONTROL] [Time(ms):868675.746]
+random value 1.97769
+value 0.178 Time 10 976.668
+[Routine:BSC] [Condition:ENV1-AGENCY] [Time(ms):879900.4788]
+random value 1.528255
+value 5.128 Time 8 232.990
+[Routine:BSC] [Condition:ENV1-OWNERSHIP] [Time(ms):888387.7873]
+random value 2.420423
+value 4.220 Time 7 785.060
+[Routine:BSC] [Condition:ENV2-CONTROL2] [Time(ms):941974.1879]
+random value 4.029716
+value 0.430 Time 9 440.400
+[Routine:BSC] [Condition:ENV2-AGENCY] [Time(ms):951660.4364]
+random value 0.8155503
+value 2.666 Time 11 530.614
+[Routine:BSC] [Condition:ENV2-CONTROL] [Time(ms):963460.2214]
+random value 2.464798
+value 0.000 Time 6 745.264
+[Routine:BSC] [Condition:ENV2-THREAT] [Time(ms):970460.1032]
+random value 1.911593
+value 0.712 Time 7 574.153
+[Routine:BSC] [Condition:ENV2-OWNERSHIP] [Time(ms):978297.7431]
+random value 2.633917
+value 2.634 Time 6 566.226

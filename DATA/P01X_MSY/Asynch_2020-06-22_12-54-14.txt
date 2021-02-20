@@ -1,0 +1,41 @@
+﻿[Experiment]
+delay_synch
+[Routine:RoomFamiliarization] [Condition:Env1] [Time(ms):10.4507]
+delay_synch
+[Routine:Ball1] [Condition:Env1] [Time(ms):15299.5199]
+delay_synch
+[Routine:Ball2] [Condition:Env1] [Time(ms):51213.2648]
+delay_synch
+[Routine:move] [Condition:Env1] [Time(ms):61471.8502]
+delay_asynch10
+[Routine:RoomFamiliarization] [Condition:Env2] [Time(ms):207617.9911]
+delay_asynch8
+[Routine:Ball1] [Condition:Env2] [Time(ms):222903.4096]
+delay_asynch8
+[Routine:Ball2] [Condition:Env2] [Time(ms):240931.6055]
+delay_asynch8
+[Routine:move] [Condition:Env2] [Time(ms):251198.6223]
+delay_synch
+[Routine:Instruction] [Condition:Env1_right] [Time(ms):301477.2567]
+delay_asynch2
+[Routine:Instruction] [Condition:Env2_right] [Time(ms):342770.1664]
+delay_synch
+[Routine:Instruction] [Condition:Env1_left] [Time(ms):384086.6799]
+delay_asynch6
+[Routine:Instruction] [Condition:Env2_left] [Time(ms):425374.1326]
+delay_asynch6
+[Routine:Instruction] [Condition:Env2_left] [Time(ms):466685.3588]
+delay_asynch4
+[Routine:Instruction] [Condition:Env2_right] [Time(ms):508008.5743]
+delay_synch
+[Routine:Instruction] [Condition:Env1_right] [Time(ms):549307.5286]
+delay_synch
+[Routine:Instruction] [Condition:Env1_left] [Time(ms):590681.235]
+UnityEngine.AnimationCurve
+[Routine:Env3] [Condition:ENV2] [Time(ms):631980.4383]
+UnityEngine.AnimationCurve
+[Routine:Env3] [Condition:ENV1] [Time(ms):722493.4392]
+UnityEngine.AnimationCurve
+[Routine:Env3] [Condition:ENV1] [Time(ms):800091.356]
+UnityEngine.AnimationCurve
+[Routine:Env3] [Condition:ENV2] [Time(ms):876927.414]
